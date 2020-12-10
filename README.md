@@ -147,7 +147,7 @@ Funds donated via Patreon go directly to support John and Heather's full-time wo
       </td>
       <td>
         <a href="https://www.ionos.com/partner">
-          <img height="35px" src="https://cdn.vuetifyjs.com/docs/images/sponsors/logos/ionos-light-sm.png">
+          <img height="35px" src="https://www.ionos.com/partner?utm_source=Vue&utm_medium=paid-social&utm_campaign=ION-USA-VUE-ABP-AWR-AgencyBusiness&utm_term=&utm_content=ION-USA-VUE-ABP-AWR-AgencyBusiness&ac=OM.US.USo54K418913T7073a">
         </a>
       </td>
     </tr>
